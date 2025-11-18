@@ -27,3 +27,4 @@ dist-ssr
 /agent/.venv/
 /tsconfig.tsbuildinfo
 .env
+*.tgz
