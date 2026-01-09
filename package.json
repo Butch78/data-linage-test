@@ -1,5 +1,6 @@
 {
   "name": "@pydantic/ai-chat-ui",
+  "packageManager": "pnpm@10.27.0",
   "private": false,
   "publishConfig": {
     "access": "public",
