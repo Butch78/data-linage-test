@@ -5,10 +5,7 @@ Example React frontend for Pydantic AI Chat using [Vercel AI Elements](https://v
 ## Dev
 
 ```sh
-npm install
-npm run dev
-
-# stop your logfire platform, to avoid port 8000 conflicts
-
-cd agent && uv run uvicorn chatbot.server:app
+pnpm install
+pnpm run dev:server # start the python example backend
+pnpm run dev
 ```
